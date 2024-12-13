@@ -1,0 +1,5 @@
+I ran into many problems when I was coding this program. The first big problem was figuring out how to import the baseball statistics correctly. I solved it by reading through
+much of the repository where it came from to fully understand how the code worked and how I could import it. The other big problem I ran into was figuring out how to sort the 
+GB column of the standings table. Instead of having a 0 for a team in the lead of their division, they had "--" to represent 0. After looking through many different functions
+you can use with the tables, I found the replace function that allowed me to replace the "--" with 0s, so that the sorting would end up working. I learned that there are many
+built in functions that serve the same or similar purposes while working on this project.
