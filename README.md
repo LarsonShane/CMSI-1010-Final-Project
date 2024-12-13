@@ -1,2 +1,2 @@
 # CMSI-1010-Final-Project
-This is the repository for my CMSI 1010 final project that allows the user to sort and filter through certain baseball data.
+To run this program you must run each segment of code and then follow the final code segment's instructions. It will ask you which table you want to look through, then for which statistic you want to sort it, and finally by which number amounts you want to filter it in between. If you want to stop the program you type spot instead of answering one of these questions. Your answers will not change when capitalization changes, but you will need to spell everything correctly.
